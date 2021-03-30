@@ -1,1 +1,2 @@
-# python0202
+First python homework assignment. 
+Writing my first python string

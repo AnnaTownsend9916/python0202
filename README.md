@@ -1,2 +1,1 @@
-First python homework assignment. 
-Writing my first python string
+I am working on relearning python and have been following a python Course from a professor at the Univeristy of Michigan. This is the first python homework assignment. I created a variable that would take a users input and store it. After that I printed a string saying Hello and added in my saved variable to create a string that would say "hello, whateverNameIs"
